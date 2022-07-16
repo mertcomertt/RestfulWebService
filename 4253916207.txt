@@ -1,0 +1,14 @@
+4253916207 deposit amount: 160.0 USD
+4253916207 deposit amount: 300.0 USD
+4253916207 transfer amount: 20.0 USD ,transferred_account: 9680627554
+4253916207 transfer amount: 20.0 USD ,transferred_account: 9680627554
+4253916207 transfer amount: 30.0 USD ,transferred_account: 9680627554
+4253916207 transfer amount: 30.0 USD ,transferred_account: 9680627554
+4253916207 deposit amount: 300.0 USD
+4253916207 deposit amount: 100.0 USD
+4253916207 deposit amount: 100.0 USD
+4253916207 transfer amount: 40.0 USD ,transferred_account: 9680627554
+4253916207 transfer amount: 40.0 USD ,transferred_account: 9680627554
+
+
+
